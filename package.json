@@ -1,0 +1,14 @@
+{
+  "name": "crafting-interpreters",
+  "version": "1.0.0",
+  "description": "Following Crafting Interpreters by Robert Nystrom",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write \"com/**/*.java\"",
+    "format:check": "prettier --check \"com/**/*.java\""
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-java": "^2.6.7"
+  }
+}

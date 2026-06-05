@@ -1,3 +1,6 @@
+# Node / Prettier tooling
+node_modules/
+
 # Compiled class file
 *.class
 
